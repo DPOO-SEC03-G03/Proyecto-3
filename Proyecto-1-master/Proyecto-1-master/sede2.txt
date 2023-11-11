@@ -1,0 +1,11 @@
+MYC_999;Toyota;PRADO TXL;2020;Blanco;Automatico;Sede2;False;Limpieza;suv
+TJX_302;Chevrolet;Tracker;2019;Rojo;Mecanico;Sede2;False;Limpieza;suv
+KLY_101;Mercedes AMG;A35 4Matic;2023;Negro;Automatico;Sede2;False;Listo;Deportivo
+ART_102;BMW; Z4;Gris;Automatico;2019;Sede2;False;Mantenimiento;Deportivo
+LPO_103;Chevrolet;Spark GT;2015;Negro;Mecanico;Sede2;False;Listo;pequeño
+WPO_104;Suzuki;Swift Hibrido;2023;Azul;Mecanico;Sede2;False;Listo;pequeño
+QOR_105;Renault;Kangoo;2020;Blanco;Mecanico;Sede2;False;Listo;vans
+PKB_106;Renault;Master;2020;Blanco;Automatico;Sede2;False;Mantenimiento;vans
+XBN_107;Maserati;Grecole;2023;Gris;Automatico;Sede2;False;Limpieza;lujo
+ZML_108;Bentley;Flying Spur;2022;Blanco;Automatico;Sede2;False;Mantenimiento;lujo
+QQQ_999;Hyundai;Tucson;2019;Azul;Automatica;sede2;False;Listo;SUV

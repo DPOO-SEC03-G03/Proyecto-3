@@ -1,0 +1,10 @@
+Nombre; Sede Norte
+Ubicacion; Calle 127 N 15 89
+Horario; am a pm
+Lunes; 8 am a 6 pm
+Martes; 8 am a 6 pm
+Miercoles; 8 am a 6 pm
+Jueves; 8 am a 6 pm
+Viernes; 8 am a 6 pm
+Sabado; 8 am a 6 pm
+Domingo; No abrimos

@@ -1,0 +1,1 @@
+MYC_999;Toyota;PRADO TXL;2020;Blanco;Automatico;Sede2;False;Limpieza;suv;

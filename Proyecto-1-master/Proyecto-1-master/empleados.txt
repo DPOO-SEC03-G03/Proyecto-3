@@ -1,0 +1,12 @@
+12548965721;HolaMundo;Luis Hernandez;3219855235;l.hernandez@gmail.com;20;None
+14578952402;TeamoMama23;Enrique Rico;3584782021;e.rico@gmail.com;12;Sede1
+14785200142;Morita23;Felipe Feo;3696985326;f.feo@gmail.com;11;Sede2
+18265495802;AmolosAnimales69;Matias Martinez;3782012457;m.martinez@gmail.com;11;Sede3
+17854241013;LoConoci;Pepito Noel;3741025489;p.noel@gmail.com;5;Sede1
+19875420253;ArepadeHuevo;Fiona Linda;3250169875;f.linda@gmail.com;4;Sede1
+13520245893;EmpanadadeAjiaco;Rayo Mcqueen;3413582015;r.mcqueen@gmail.com;6;Sede2
+14202535893;Carroshi;Sally Porche;3204892221;s.porche@gmail.com;6;Sede2
+12035789523;Kuchau;Lura Luna;3101148985;l.luna@gmail.com;7;Sede3
+10121452033;FranchescoBirgonilli;Sol Solecito;3589754102;s.solecito@gmail.com;4;Sede3
+63587412593;ContraseñatuiMama;Prueba100;8954102357;prueba@gmail.com;1;sede3
+11257879143;ACABAMOOOS;Sergio Pan;4583521025;pan.s@gmail.com;1;sede2
