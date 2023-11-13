@@ -1,4 +1,0 @@
-14785200142;Morita23;Felipe Feo;3696985326;f.feo@gmail.com;11;Sede2
-13520245893;EmpanadadeAjiaco;Rayo Mcqueen;3413582015;r.mcqueen@gmail.com;6;Sede2
-14202535893;Carroshi;Sally Porche;3204892221;s.porche@gmail.com;6;Sede2
-11257879143;ACABAMOOOS;Sergio Pan;4583521025;pan.s@gmail.com;1;sede2
