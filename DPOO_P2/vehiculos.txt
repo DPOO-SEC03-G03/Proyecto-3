@@ -1,0 +1,40 @@
+MYC_789;Toyota;PRADO TXL;2020;Blanco;Automatico;calle 27 N 5-58;True;None;suv
+TJX_598;Chevrolet;Tracker;2019;Rojo;Mecanico;calle 117 N 2-54;True;None;suv
+KLY_694;Mercedes AMG;A35 4Matic;2023;Negro;Automatico;calle 98 N 9-25;True;None;Deportivo
+ART_145;BMW;Z4;Gris;Automatico;2019;calle 74 N 1-58;True;None;Deportivo
+LPO_910;Chevrolet;Spark GT;2015;Negro;Mecanico;cra 38 N 90-28;True;None;pequeño
+WPO_210;Suzuki; Swift Hibrido; 2023; Azul; Mecanico; calle 15 N 7-95; True; None;pequeño
+QOR_678; Renault; Kangoo; 2020; Blanco; Mecanico; cra 69 N 42-89; True; None;vans
+PKB_458; Renault; Master; 2020; Blanco; Automatico; Cra 67 N 56-98; True; None;vans
+XBN_378; Maserati; Grecole; 2023; Gris; Automatico; calle 37 N 96-51; True; None;lujo
+ZML_402; Bentley; Flying Spur; 2022; Blanco; Automatico; calle 170 N 24-64; True; None;lujo
+MYC_710; Toyota; PRADO TXL; 2020; Blanco; Automatico; Sede1; False; Limpieza;suv
+TJX_598; Chevrolet; Tracker; 2019; Rojo; Mecanico; Sede1; False; Limpieza;suv
+KLY_649; Mercedes AMG; A35 4Matic; 2023; Negro; Automatico; Sede1; False; Listo; Deportivo
+ART_179; BMW; Z4; Gris; Automatico; 2019; Sede1; False; Mantenimiento; Deportivo
+LPO_900; Chevrolet; Spark GT; 2015; Negro; Mecanico; Sede1; False; Listo;pequeño
+WPO_111;Suzuki; Swift Hibrido; 2023; Azul; Mecanico; Sede1; False; Listo;pequeño
+QOR_222; Renault; Kangoo; 2020; Blanco; Mecanico; Sede1; False; Listo;vans
+PKB_333; Renault; Master; 2020; Blanco; Automatico; Sede1; False; Mantenimiento;vans
+XBN_444; Maserati; Grecole; 2023; Gris; Automatico; Sede1; False; Limpieza;lujo
+ZML_555; Bentley; Flying Spur; 2022; Blanco; Automatico; Sede1; False; Mantenimiento;lujo
+MYC_999; Toyota; PRADO TXL; 2020; Blanco; Automatico; Sede2; False; Limpieza;suv
+TJX_302; Chevrolet; Tracker; 2019; Rojo; Mecanico; Sede2; False; Limpieza;suv
+KLY_101; Mercedes AMG; A35 4Matic; 2023; Negro; Automatico; Sede2; False; Listo; Deportivo
+ART_102; BMW; Z4; Gris; Automatico; 2019; Sede2; False; Mantenimiento; Deportivo
+LPO_103; Chevrolet; Spark GT; 2015; Negro; Mecanico; Sede2; False; Listo;pequeño
+WPO_104;Suzuki; Swift Hibrido; 2023; Azul; Mecanico; Sede2; False; Listo;pequeño
+QOR_105; Renault; Kangoo; 2020; Blanco; Mecanico; Sede2; False; Listo;vans
+PKB_106; Renault; Master; 2020; Blanco; Automatico; Sede2; False; Mantenimiento;vans
+XBN_107; Maserati; Grecole; 2023; Gris; Automatico; Sede2; False; Limpieza;lujo
+ZML_108; Bentley; Flying Spur; 2022; Blanco; Automatico; Sede2; False; Mantenimiento;lujo
+MYC_201; Toyota; PRADO TXL; 2020; Blanco; Automatico; Sede3; False; Limpieza;suv
+TJX_202; Chevrolet; Tracker; 2019; Rojo; Mecanico; Sede3; False; Limpieza;suv
+KLY_203; Mercedes AMG; A35 4Matic; 2023; Negro; Automatico; Sede3; False; Listo; Deportivo
+ART_204; BMW; Z4; Gris; Automatico; 2019; Sede3; False; Mantenimiento; Deportivo
+LPO_205; Chevrolet; Spark GT; 2015; Negro; Mecanico; Sede3; False; Listo;pequeño
+WPO_206;Suzuki; Swift Hibrido; 2023; Azul; Mecanico; Sede3; False; Listo;pequeño
+QOR_207; Renault; Kangoo; 2020; Blanco; Mecanico; Sede3; False; Listo;vans
+PKB_208; Renault; Master; 2020; Blanco; Automatico; Sede3; False; Mantenimiento;vans
+XBN_209; Maserati; Grecole; 2023; Gris; Automatico; Sede3; False; Limpieza;lujo
+ZML_301; Bentley; Flying Spur; 2022; Blanco; Automatico; Sede3; False; Mantenimiento;lujo
