@@ -1,0 +1,3 @@
+seguro todo riesgo;55000
+seguro rayones;25000
+seguro muerte;35000
